@@ -15,6 +15,9 @@ This project is a **Power BI dashboard** designed to analyze loan customer data 
 
 ![Dashboard Screenshot](assets/dashboard.png)
 
+📂 Dataset
+The dataset used in this project is included in the repository.
+
 ## 🛠️ Tools & Technologies
 
 * Power BI
