@@ -35,3 +35,13 @@ This project is a **Power BI dashboard** designed to analyze loan customer data 
 1. Download the `.pbix` file
 2. Open it using Power BI Desktop
 3. Explore interactive visuals and filters
+
+💡 Learnings
+Developed interactive dashboards using Excel
+Improved data visualization and analytical skills
+Learned how to present business insights effectively
+
+
+📬 Feedback
+Feedback and suggestions are welcome!
+If you found this project useful, feel free to ⭐ the repository.
