@@ -37,7 +37,8 @@ This project is a **Power BI dashboard** designed to analyze loan customer data 
 3. Explore interactive visuals and filters
 
 💡 Learnings
-Developed interactive dashboards using Excel
+
+Developed interactive dashboards using PowerBi
 Improved data visualization and analytical skills
 Learned how to present business insights effectively
 
